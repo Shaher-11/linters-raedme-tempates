@@ -43,7 +43,7 @@ To get a local copy up and running follow these simple example steps.
 
 ## Authors
 
-👤 **Author1**
+👤 **Shaher**
 
 - Twitter: [@twitterhandle](https://twitter.com/ShaherShamroukh/)
 - LinkedIn: [LinkedIn](https://www.linkedin.com/in/shaher-shamroukh/)
